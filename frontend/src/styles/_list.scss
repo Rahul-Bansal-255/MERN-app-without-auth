@@ -1,0 +1,15 @@
+.list {
+  // display: inline-block;
+  position: absolute;
+  top: 3vw;
+  right: 3vw;
+  width: 45vw;
+  height: 90vh;
+  // border: 1px solid black;
+  margin: 0.3vw;
+  overflow-y: scroll;
+
+  padding: 2vw;
+  border-radius: 2vw 0vw 0vw 2vw;
+  background-color: white;
+}

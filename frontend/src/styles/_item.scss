@@ -1,0 +1,17 @@
+.item {
+  width: 32vw;
+  margin: 2vw;
+  position: relative;
+  font-size: 2vw;
+  // background-color: aqua
+}
+
+.delete-btn {
+  position: absolute;
+  right: -5vw;
+  top: 0.5vw;
+}
+
+.delete-btn:hover {
+  cursor: pointer;
+}
